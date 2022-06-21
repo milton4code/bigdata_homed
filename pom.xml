@@ -22,7 +22,7 @@
         <zookeeper.version>3.4.6</zookeeper.version>
         <jedis.version>2.9.0</jedis.version>
         <joda-time.version>2.9.9</joda-time.version>
-        <mysql.version>5.1.35</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <fastjson.version>1.2.44</fastjson.version>
 
     </properties>
