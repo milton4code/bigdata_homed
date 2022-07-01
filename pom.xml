@@ -10,7 +10,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <maven.complier.encoding>utf8</maven.complier.encoding>
 
-        <hadoop.version>2.6.0</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
 
         <spark.scala.version>2.10</spark.scala.version>
         <scala.version>2.10.6</scala.version>
